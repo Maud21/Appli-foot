@@ -1,0 +1,82 @@
+.bloc_creation{
+    text-align: center;
+    background-image: url("images/foot_creation.jpg");
+    background-size: cover;
+    height: 350px;
+}
+
+.bloc_creation h2{
+    font-size: 20px;
+}
+
+.bloc_creation h3{
+    font-size: 15px;
+}
+
+.bloc_creation input{
+    background-color: rgb(221, 221, 221);
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.bloc_creation button{
+    background-color: #142657;
+    color: whitesmoke;
+    font-size: 15px;
+    margin-top: 12px;
+    border: solid 1px #142657;
+    border-radius: 3px;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-weight: bold;
+    
+}
+
+.bloc_creation h4{
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+label{
+    font-weight: bold;
+}
+
+
+
+
+
+
+/*h1{
+    text-align: center;
+}
+
+form{
+    background-color: aliceblue;
+    margin-right: 800px;
+    border-radius: 5px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#valider button{
+    margin-top: 20px;
+    border: solid 1px  rgb(3, 3, 78);
+    border-radius: 5px;
+    width: 250px;
+    background-color: rgb(3, 3, 78);
+    color: rgb(241, 240, 240);
+    padding: 7px;
+}
+#valider{
+    text-align: center;
+}
+*/

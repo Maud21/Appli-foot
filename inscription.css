@@ -1,0 +1,47 @@
+.bloc_connexion{
+    text-align: center;
+    background-image: url("images/foot-connexion.jpg");
+    background-size: cover;
+    height: 350px;
+}
+
+.bloc_connexion h2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bloc_connexion h3{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.bloc_connexion input{
+    background-color: rgb(221, 221, 221);
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.bloc_connexion button{
+    background-color: #142657;
+    color: whitesmoke;
+    font-size: 15px;
+    margin-top: 12px;
+    border: solid 1px #142657;
+    border-radius: 3px;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-weight: bold;
+    
+}
+
+.bloc_connexion h4{
+    font-size: 12px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+
+

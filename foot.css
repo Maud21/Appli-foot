@@ -1,0 +1,70 @@
+#presentation img{
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+}
+
+#equipe-france{
+    margin-top: 50px;
+}
+
+#equipe-france h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#equipe-france img{
+    border-radius: 5px;
+}
+
+#equipe-france ul{
+    margin-top: 10px;
+}
+
+#equipe-france li{
+    list-style-type: none;
+    padding: 10px;
+}
+
+#D1-D2{
+    margin-top: 50px;
+}
+
+#D1-D2 h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#D1-D2 img{
+    border-radius: 5px;
+}
+
+#D1-D2 p{
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+#infos{
+    margin-top: 50px;
+}
+
+#infos img{
+    border-radius: 5px;
+}
+
+#infos h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#infos p{
+    padding-top: 15px;
+    font-weight: bold;
+    text-align: center; 
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

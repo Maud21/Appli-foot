@@ -1,0 +1,88 @@
+#resultats{
+    margin-bottom: 30px;
+}
+
+#resultats h1{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 40px;
+    font-weight: bold;
+    color: rgb(3, 3, 78);
+}
+
+#equipeFrance img{
+    height: 400px;
+    border-radius: 5px;
+    background-size: cover;
+    background-position: center;
+}
+
+#equipeFrance .img1 {
+    text-align: center;
+}
+
+.img2{
+    text-align: center;
+}
+
+#resultats img{
+    width: 500px;
+    height: 300px;
+}
+
+#resultats a{
+    background-color: rgb(3, 3, 78);
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+
+.lien-classement{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#a-venir{
+    margin-top: 50px;
+    background-color: rgb(3, 3, 78);
+    border-radius: 10px;
+    color: rgb(226, 225, 225);
+}
+
+
+#a-venir h1{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 40px;
+    font-weight: bold;
+    color: rgb(226, 225, 225);
+}
+
+#a-venir img{
+    width: 500px;
+    height: 300px;
+}
+
+#a-venir h3{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+#a-venir img{
+    margin-top: 120px;
+}
+
+.portrait{
+    margin-top: 50px;
+}
+.portrait h2{
+    text-align: center;
+    color: rgb(3, 3, 78);
+}
+
+#portrait-fille{
+    margin-top: 30px;
+}

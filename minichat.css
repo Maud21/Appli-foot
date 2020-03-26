@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+
+#chat{
+    margin-top: 40px;
+}
+
+label{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.pseudo{
+    border: solid 2px rgb(3, 71, 3);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.message{
+    border: solid 2px rgb(2, 2, 58);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+button{
+    margin-top: 30px;
+    background-color: rgb(2, 2, 58);
+    padding: 5px;
+    border: 1px solid rgb(2, 2, 58);
+    border-radius: 4px;
+    color: whitesmoke;
+}
+
+.chat{
+    border: solid 2px rgb(2, 2, 58);
+}
+
+p{
+    border: solid 1px rgb(80, 138, 224);
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(80, 138, 224);
+
+}
+
+

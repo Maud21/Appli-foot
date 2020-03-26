@@ -1,0 +1,29 @@
+#menu{
+    margin-top: 15px;
+}
+
+#menu ul{
+    display: flex;
+    list-style-type:none;
+}
+
+#menu ul li{
+    color: rgb(3, 3, 78);
+    font-weight: bold; 
+    font-size: 18px; 
+    padding: 15px;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    
+}
+
+#menu .reseaux img{
+    height: 40px;
+    width: 40px;
+}
+
+hr{
+    margin-top: 1px;
+}
