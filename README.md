@@ -7,7 +7,7 @@ Projet réalisé en PHP et MySQL.
 
 L'utilisateur peut créer un espace membre :
 -créer un nouveau profil (Pseudo, mot de passe, adresse email).
-Ces informations sont enregistrées dans la base de données MySQL PhpAdmin.
+Ces informations sont enregistrées dans la base de données MySQL via WAMP et PhpAdmin.
 Hashage du mot de passe.
 -se connecter à son compte (Pseudo, mot de passe).
 Récupération des données dans la bdd.
